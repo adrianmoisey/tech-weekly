@@ -16,6 +16,7 @@ A list of tech weekly newsletters
 - [Mobile web](http://mobilewebweekly.co/)
 - [node](http://nodeweekly.com/)
 - [NoSQL](http://www.nosqlweekly.com/)
+- [PHP](http://www.phpweekly.com/)
 - [Postgres](http://postgresweekly.com/)
 - [Python](http://www.pythonweekly.com/)
 - [RasPi](http://www.raspiweekly.com/)
