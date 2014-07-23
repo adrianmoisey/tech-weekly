@@ -20,5 +20,6 @@ A list of tech weekly newsletters
 - [Postgres](http://postgresweekly.com/)
 - [Python](http://www.pythonweekly.com/)
 - [RasPi](http://www.raspiweekly.com/)
+- [Redis](http://redisweekly.com/)
 - [Ruby](http://rubyweekly.com/)
 - [Status Code](http://statuscode.org/)
