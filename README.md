@@ -4,6 +4,7 @@ A list of tech weekly newsletters
 
 - [Bitcoin](http://bitcoinweekly.com/)
 - [Bootstrap](http://bootstrappedweekly.com/)
+- [CSS](http://css-weekly.com/)
 - [Dart](http://dartweekly.com/)
 - [DB](http://dbweekly.com/)
 - [DevOps](http://devopsweekly.com/)
