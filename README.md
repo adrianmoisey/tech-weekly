@@ -12,6 +12,7 @@ A list of tech weekly newsletters
 - [Domains](http://www.thisweekindomains.com/)
 - [Founder](http://www.founderweekly.com/)
 - [HTML 5](http://html5weekly.com/)
+- [Hacker Newsletter](http://www.hackernewsletter.com/)
 - [Javascript](http://javascriptweekly.com/)
 - [Mobile web](http://mobilewebweekly.co/)
 - [node](http://nodeweekly.com/)
