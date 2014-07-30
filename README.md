@@ -22,5 +22,7 @@ A list of tech weekly newsletters
 - [Python](http://www.pythonweekly.com/)
 - [RasPi](http://www.raspiweekly.com/)
 - [Redis](http://redisweekly.com/)
+- [Responsive Design](http://responsivedesignweekly.com/)
 - [Ruby](http://rubyweekly.com/)
 - [Status Code](http://statuscode.org/)
+- [Wed Design Weekly](http://web-design-weekly.com/)
