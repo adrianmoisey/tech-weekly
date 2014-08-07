@@ -6,6 +6,7 @@ A list of tech weekly newsletters
 - [Bootstrap](http://bootstrappedweekly.com/)
 - [CSS](http://css-weekly.com/)
 - [Dart](http://dartweekly.com/)
+- [Data Visualization and D3.js](https://www.dashingd3js.com/data-visualization-and-d3-newsletter)
 - [DB](http://dbweekly.com/)
 - [DevOps](http://devopsweekly.com/)
 - [Django](http://djangoweek.ly/)
