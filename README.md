@@ -2,6 +2,7 @@
 
 A list of tech weekly newsletters
 
+- [Ansible](https://devopsu.com/newsletters/ansible-weekly-newsletter.html)
 - [Bitcoin](http://bitcoinweekly.com/)
 - [Bootstrap](http://bootstrappedweekly.com/)
 - [CSS](http://css-weekly.com/)
