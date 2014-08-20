@@ -21,7 +21,9 @@ A list of tech weekly newsletters
 - [NoSQL](http://www.nosqlweekly.com/)
 - [PHP](http://www.phpweekly.com/)
 - [Postgres](http://postgresweekly.com/)
-- [Python](http://www.pythonweekly.com/)
+- Python
+    - [Python](http://www.pythonweekly.com/)
+    - [PyCoders](http://pycoders.com/)
 - [RasPi](http://www.raspiweekly.com/)
 - [Redis](http://redisweekly.com/)
 - [Responsive Design](http://responsivedesignweekly.com/)
