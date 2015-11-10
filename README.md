@@ -12,6 +12,7 @@ A list of tech weekly newsletters
 - [DevOps](http://devopsweekly.com/)
 - [Django](http://djangoweek.ly/)
 - [Domains](http://www.thisweekindomains.com/)
+- [Europe Remotely](http://europeremotely.com/)
 - [Founder](http://www.founderweekly.com/)
 - [HTML 5](http://html5weekly.com/)
 - [Hacker Newsletter](http://www.hackernewsletter.com/)
