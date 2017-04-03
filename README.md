@@ -18,6 +18,7 @@ A list of tech weekly newsletters
 - [HTML 5](http://html5weekly.com/)
 - [Hacker Newsletter](http://www.hackernewsletter.com/)
 - [Javascript](http://javascriptweekly.com/)
+- [Kube](https://kubeweekly.com/)
 - [Mobile web](http://mobilewebweekly.co/)
 - [Monitoring](http://weekly.monitoring.love/)
 - [node](http://nodeweekly.com/)
