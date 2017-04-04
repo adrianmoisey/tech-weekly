@@ -6,6 +6,7 @@ A list of tech weekly newsletters
 - [AWS](https://lastweekinaws.com/)
 - [Bitcoin](http://bitcoinweekly.com/)
 - [Bootstrap](http://bootstrappedweekly.com/)
+- [CRON Weekly](https://www.cronweekly.com/)
 - [CSS](http://css-weekly.com/)
 - [Dart](http://dartweekly.com/)
 - [Data Visualization and D3.js](https://www.dashingd3js.com/data-visualization-and-d3-newsletter)
