@@ -22,7 +22,7 @@ A list of tech weekly newsletters
 - [Data Visualization and D3.js](https://www.dashingd3js.com/data-visualization-and-d3-newsletter)
 - [Mobile web](http://mobilewebweekly.co/)
 - [Responsive Design](http://responsivedesignweekly.com/)
-- [Wed Design Weekly](http://web-design-weekly.com/)
+- [Web Design Weekly](http://web-design-weekly.com/)
 
 ## DevOps and Sysadmin
 
