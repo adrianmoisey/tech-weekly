@@ -47,6 +47,7 @@ A list of tech weekly newsletters
 
 - [Bitcoin](http://bitcoinweekly.com/)
 - [Europe Remotely](http://europeremotely.com/)
+- [Engineering Impact](https://www.gitprime.com/engineering-impact)
 - [Founder](http://www.founderweekly.com/)
 - [RasPi](http://www.raspiweekly.com/)
 - [Status Code](http://statuscode.org/)
