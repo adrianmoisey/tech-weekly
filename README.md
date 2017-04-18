@@ -2,37 +2,51 @@
 
 A list of tech weekly newsletters
 
-- [Ansible](https://devopsu.com/newsletters/ansible-weekly-newsletter.html)
-- [AWS](https://lastweekinaws.com/)
-- [Bitcoin](http://bitcoinweekly.com/)
+## Languages and frameworks
+
 - [Bootstrap](http://bootstrappedweekly.com/)
-- [CRON Weekly](https://www.cronweekly.com/)
 - [CSS](http://css-weekly.com/)
 - [Dart](http://dartweekly.com/)
-- [Data Visualization and D3.js](https://www.dashingd3js.com/data-visualization-and-d3-newsletter)
-- [DB](http://dbweekly.com/)
-- [DevOps](http://devopsweekly.com/)
 - [Django](http://djangoweek.ly/)
-- [Domains](http://www.thisweekindomains.com/)
-- [Europe Remotely](http://europeremotely.com/)
-- [Founder](http://www.founderweekly.com/)
 - [HTML 5](http://html5weekly.com/)
-- [Hacker Newsletter](http://www.hackernewsletter.com/)
 - [Javascript](http://javascriptweekly.com/)
-- [Kube](https://kubeweekly.com/)
-- [Mobile web](http://mobilewebweekly.co/)
-- [Monitoring](http://weekly.monitoring.love/)
 - [node](http://nodeweekly.com/)
-- [NoSQL](http://www.nosqlweekly.com/)
 - [PHP](http://www.phpweekly.com/)
-- [Postgres](http://postgresweekly.com/)
 - Python
     - [Python](http://www.pythonweekly.com/)
     - [PyCoders](http://pycoders.com/)
-- [RasPi](http://www.raspiweekly.com/)
-- [Redis](http://redisweekly.com/)
-- [Responsive Design](http://responsivedesignweekly.com/)
 - [Ruby](http://rubyweekly.com/)
-- [SRE](http://sreweekly.com/)
-- [Status Code](http://statuscode.org/)
+
+## Webdev
+
+- [Data Visualization and D3.js](https://www.dashingd3js.com/data-visualization-and-d3-newsletter)
+- [Mobile web](http://mobilewebweekly.co/)
+- [Responsive Design](http://responsivedesignweekly.com/)
 - [Wed Design Weekly](http://web-design-weekly.com/)
+
+## DevOps and Sysadmin
+
+- [Ansible](https://devopsu.com/newsletters/ansible-weekly-newsletter.html)
+- [AWS](https://lastweekinaws.com/)
+- [CRON Weekly](https://www.cronweekly.com/)
+- [DevOps](http://devopsweekly.com/)
+- [Domains](http://www.thisweekindomains.com/)
+- [Hacker Newsletter](http://www.hackernewsletter.com/)
+- [Kube](https://kubeweekly.com/)
+- [Monitoring](http://weekly.monitoring.love/)
+- [SRE](http://sreweekly.com/)
+
+## Database
+
+- [DB](http://dbweekly.com/)
+- [NoSQL](http://www.nosqlweekly.com/)
+- [Postgres](http://postgresweekly.com/)
+- [Redis](http://redisweekly.com/)
+
+## Other
+
+- [Bitcoin](http://bitcoinweekly.com/)
+- [Europe Remotely](http://europeremotely.com/)
+- [Founder](http://www.founderweekly.com/)
+- [RasPi](http://www.raspiweekly.com/)
+- [Status Code](http://statuscode.org/)
