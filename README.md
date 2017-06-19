@@ -7,7 +7,7 @@ A list of tech weekly newsletters
 - [Bootstrap](http://bootstrappedweekly.com/)
 - [CSS](http://css-weekly.com/)
 - [Dart](http://dartweekly.com/)
-- [Django](http://djangoweek.ly/)
+- [Django](http://djangoweekly.com/newsletter/)
 - [HTML 5](http://html5weekly.com/)
 - [Javascript](http://javascriptweekly.com/)
 - [node](http://nodeweekly.com/)
