@@ -41,6 +41,7 @@ A list of tech weekly newsletters
 ## Database
 
 - [DB](http://dbweekly.com/)
+- [GraphQL](https://graphqlweekly.com/)
 - [NoSQL](http://www.nosqlweekly.com/)
 - [Postgres](http://postgresweekly.com/)
 - [Redis](http://redisweekly.com/)
