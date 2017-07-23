@@ -31,6 +31,7 @@ A list of tech weekly newsletters
 - [CRON Weekly](https://www.cronweekly.com/)
 - [DevOps Weekly](http://devopsweekly.com/)
 - [DevOps Week News](https://www.getrevue.co/profile/devops-week-news)
+- [DevOps'ish Weekly](https://devopsish.com/)
 - [DevOpsLinks](http://devopslinks.com/)
 - [Domains](http://www.thisweekindomains.com/)
 - [Hacker Newsletter](http://www.hackernewsletter.com/)
