@@ -38,6 +38,7 @@ A list of tech weekly newsletters
 - [Kube](https://kubeweekly.com/)
 - [Monitoring](http://weekly.monitoring.love/)
 - [SRE](http://sreweekly.com/)
+- [WebOps Weekly](https://webopsweekly.com/)
 
 ## Database
 
@@ -56,4 +57,6 @@ A list of tech weekly newsletters
 - [RasPi](http://www.raspiweekly.com/)
 - [Serverless news](http://serverlessweekly.info/)
 - [Serverless Status](https://serverless.email/)
+- [Software Lead Weekly](http://softwareleadweekly.com/)
+- [Ship It](http://shipit.works/)
 - [Status Code](http://statuscode.org/)
