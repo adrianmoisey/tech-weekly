@@ -54,4 +54,6 @@ A list of tech weekly newsletters
 - [Engineering Impact](https://www.gitprime.com/engineering-impact)
 - [Founder](http://www.founderweekly.com/)
 - [RasPi](http://www.raspiweekly.com/)
+- [Serverless news](http://serverlessweekly.info/)
+- [Serverless Status](https://serverless.email/)
 - [Status Code](http://statuscode.org/)
