@@ -36,6 +36,7 @@ A list of tech weekly newsletters
 - [Domains](http://www.thisweekindomains.com/)
 - [Hacker Newsletter](http://www.hackernewsletter.com/)
 - [Kube](https://kubeweekly.com/)
+- [KubeRocker Pro](https://kuberocker.com/)
 - [Monitoring](http://weekly.monitoring.love/)
 - [SRE](http://sreweekly.com/)
 - [WebOps Weekly](https://webopsweekly.com/)
