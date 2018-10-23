@@ -59,5 +59,4 @@ A list of tech weekly newsletters
 - [Serverless news](http://serverlessweekly.info/)
 - [Serverless Status](https://serverless.email/)
 - [Software Lead Weekly](http://softwareleadweekly.com/)
-- [Ship It](http://shipit.works/)
 - [Status Code](http://statuscode.org/)
