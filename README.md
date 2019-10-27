@@ -51,7 +51,6 @@ A list of tech weekly newsletters
 
 ## Other
 
-- [Bitcoin](http://bitcoinweekly.com/)
 - [Europe Remotely](http://europeremotely.com/)
 - [Engineering Impact](https://www.gitprime.com/engineering-impact)
 - [Founder](http://www.founderweekly.com/)
