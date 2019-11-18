@@ -39,6 +39,7 @@ A list of tech weekly newsletters
 - [KubeRocker Pro](https://kuberocker.com/)
 - [Monitoring](http://weekly.monitoring.love/)
 - [SRE](http://sreweekly.com/)
+- [Up & Running Weekly](http://www.upandrunningweekly.com/)
 - [WebOps Weekly](https://webopsweekly.com/)
 
 ## Database
