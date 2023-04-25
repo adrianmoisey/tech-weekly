@@ -29,6 +29,7 @@ A list of tech weekly newsletters
 - [Ansible](https://devopsu.com/newsletters/ansible-weekly-newsletter.html)
 - [AWS](https://lastweekinaws.com/)
 - [CRON Weekly](https://www.cronweekly.com/)
+- [DevOps Bulletin](https://www.devopsbulletin.com/)
 - [DevOps Weekly](http://devopsweekly.com/)
 - [DevOps Week News](https://www.getrevue.co/profile/devops-week-news)
 - [DevOps'ish Weekly](https://devopsish.com/)
